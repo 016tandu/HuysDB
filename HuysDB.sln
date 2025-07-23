@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "HuysDB", "HuysDB.ssmssqlproj", "{9F90DD4E-0ADE-8E02-851B-B811B9EE0969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F90DD4E-0ADE-8E02-851B-B811B9EE0969}.Default|Default.ActiveCfg = Default
+		{DC8315C0-9314-4242-B022-E2C95696A8B9}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F971CC1-92B0-4AA0-8A15-615B5ED0A396}
+	EndGlobalSection
+EndGlobal

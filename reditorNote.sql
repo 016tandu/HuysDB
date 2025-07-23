@@ -1,0 +1,2 @@
+-- IDE notes 
+-- Ctrl + KU to select a line 
